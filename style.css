@@ -5,7 +5,7 @@ body{
     background-size: cover;
 }
 
-div{
+
 .box{
     width: 450px;
     background: rgba(87,89,88,0.4);
@@ -21,7 +21,7 @@ div{
     width: 200px;
     height: 200px;
 }
-}
+
 
 .box h1{
     font-size:40px;
@@ -52,7 +52,7 @@ ul{
     transition: all ease-in-out 250ms;
 }
 .box li a:hover{
-    color: #b9b9b9
+    color: #b9b9b9;
 }
 
 
